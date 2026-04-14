@@ -116,13 +116,6 @@ QUERY
 PLACE 3 SELL 99 3
 ```
 
-Output:
-
-```
-100 -1
-100 -1
-```
-
 ---
 
 ## 📚 Motivation
